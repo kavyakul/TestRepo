@@ -1,1 +1,3 @@
 first file in repository to be checked in
+first file in repository to be checked in
+Testing fishye & jira integration
